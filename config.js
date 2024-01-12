@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['233533763772', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true], 
-  ['918360234087', 'WHITE', true], 
+  ['2349035391852', 'TheHonoredOne', true],
+  ['2348123035565',  'Timothy', true], 
+  []
+  []
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['233533763772','923184070915', '94789481495', '923184474176'] 
-global.prems = ['923184070915', '233533763772', '94789481495', '918360234087']
+global.mods = ['2349035391852','2348123035565'] 
+global.prems = ['2349035391852', '2348123035565']
 global.allowed = ['923184070915', '233533763772', '94789481495', '918360234087']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -52,14 +52,14 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'TheMostHonoredBot'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
-global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
+global.packname = 'Timothy' 
+global.author = 'Timothy' 
+global.menuvid = 'https://telegra.ph/file/f65b6fca7cf052b0c916f.jpg'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
+global.dygp = 'https://chat.whatsapp.com/KHsXz1u7plA9EfWUquYtlc'
+global.fgsc = 'https://github.com/TheHonoredones/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
 global.fglog = 'XLICON.jpg' 
